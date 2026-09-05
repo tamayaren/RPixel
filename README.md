@@ -87,3 +87,9 @@ swift run RPixelTests
 # Package RPixel.app bundle
 ./Scripts/build_app.sh
 ```
+
+---
+
+## Want Windows alternative?
+
+If you want a Windows alternative, please see [xSwezan's Pixfix.](https://github.com/xSwezan/Pixfix)
